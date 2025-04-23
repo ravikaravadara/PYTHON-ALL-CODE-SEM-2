@@ -1,0 +1,3 @@
+PRN=10000
+I=PRN/100 
+print(I)

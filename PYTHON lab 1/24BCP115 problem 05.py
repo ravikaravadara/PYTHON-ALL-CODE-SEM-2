@@ -1,0 +1,10 @@
+a=10
+b=5
+r1=(a+b)
+d2=(a-b)
+e3=(a*b)
+f4=(a/b)
+print(r1)
+print(d2)
+print(e3)
+print(f4)
